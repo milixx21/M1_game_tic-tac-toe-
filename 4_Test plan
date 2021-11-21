@@ -1,1 +1,10 @@
+Test plan
+The three major processes that comprise the application are the major test items. 
+In addition, the GameBoard, which is a Java Bean, deserves special attention because of the special characteristics of the standard.
 
+The primary tasks are:
+    1.Test case selection
+    2.Test class construction
+    3.Test execution
+    4.Test result evaluation
+    5.Test report development
