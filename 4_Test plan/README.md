@@ -1,1 +1,2 @@
-
+## TEST PLAN
+: Testing is that the major management live used throughout software package development. Its basic operate is to find errors within the software package. throughout demand analysis and style, the output may be a document that's sometimes matter and no feasible. when the cryptography section, laptop programs square measure obtainable which will be dead for testing purpose. this means that testing not solely, must uncover errors introduced throughout cryptography, however additionally errors introduced throughout previous section. therefore the goal of testing is to uncover the necessities, style and cryptography errors within the programs. Softer testing the outputs of my project square measure as follows:
