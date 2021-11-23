@@ -77,10 +77,9 @@ Features and Benefits of the Tic-Tac-Toe Game It's often used as a pedagogical t
 | LLR_1_HLR1|•Players personal details like gender,contact number.|
 
 ## High Level Requirements
-![142723126-2faf4876-c3d1-4247-93e1-c596e118bf3e](https://user-images.githubusercontent.com/94521102/143002999-89f3c7f2-9fc9-4eeb-9961-c516b48d7439.png)
-	
-## Low Level Requirements
+![tic tac toe](https://user-images.githubusercontent.com/94521102/143076222-83095a56-d26c-400d-9d24-2b2a575ff0d7.png)
 
+## Low Level Requirements
 ![142723104-1f651e05-f255-4166-8f53-28243125d0e3](https://user-images.githubusercontent.com/94521102/143003177-3bb8232f-55fb-48ee-a580-6029437cce13.png)
 
 
