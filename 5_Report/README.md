@@ -87,6 +87,18 @@ Features and Benefits of the Tic-Tac-Toe Game It's often used as a pedagogical t
 ## FLOWCHART
 ![142773146-87c40892-5495-4f00-9be3-96c76399f768](https://user-images.githubusercontent.com/94521102/143019749-764fdbbb-34c9-49f9-8af2-28ee172fd2dd.jpg)
 
+# TEST PLAN
+
+We gathered all the elements needed for the game to work and created tests to test our implementation. Each addition to our project was then pushed to our Git repository to save files. Depending on the result of the build, we either fixed our code or moved to the next step. when the cryptography section, laptop programs square measure obtainable which will be dead for testing purpose.
+
+
+
+* The class diagram:
+
+
+
+
+![Capture pr](https://user-images.githubusercontent.com/94240954/143029638-87a7a005-c8a4-4e15-9937-a1493b1f76c2.JPG)
 
 
 
