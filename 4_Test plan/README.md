@@ -1,2 +1,12 @@
-## TEST PLAN
-: Testing is that the major management live used throughout software package development. Its basic operate is to find errors within the software package. throughout demand analysis and style, the output may be a document that's sometimes matter and no feasible. when the cryptography section, laptop programs square measure obtainable which will be dead for testing purpose. this means that testing not solely, must uncover errors introduced throughout cryptography, however additionally errors introduced throughout previous section. therefore the goal of testing is to uncover the necessities, style and cryptography errors within the programs. Softer testing the outputs of my project square measure as follows:
+# TEST PLAN
+
+We gathered all the elements needed for the game to work and created tests to test our implementation. Each addition to our project was then pushed to our Git repository to save files. Depending on the result of the build, we either fixed our code or moved to the next step. when the cryptography section, laptop programs square measure obtainable which will be dead for testing purpose.
+
+
+
+* The class diagram:
+
+
+
+
+![Capture pr](https://user-images.githubusercontent.com/94240954/143029638-87a7a005-c8a4-4e15-9937-a1493b1f76c2.JPG)
