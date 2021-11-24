@@ -10,7 +10,7 @@ This game is very popular and is fairly simple by itself. It is actually a two p
     Either player or computer Lose the game.
 
 
-## Department Store Management
+## Tic Tac Toe
 
 
 
@@ -81,5 +81,13 @@ Features and Benefits of the Tic-Tac-Toe Game It's often used as a pedagogical t
 
 ## Low Level Requirements
 ![142723104-1f651e05-f255-4166-8f53-28243125d0e3](https://user-images.githubusercontent.com/94521102/143003177-3bb8232f-55fb-48ee-a580-6029437cce13.png)
+
+## DESIGN
+
+## FLOWCHART
+![142773146-87c40892-5495-4f00-9be3-96c76399f768](https://user-images.githubusercontent.com/94521102/143019749-764fdbbb-34c9-49f9-8af2-28ee172fd2dd.jpg)
+
+
+
 
 
