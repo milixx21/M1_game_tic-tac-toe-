@@ -14,7 +14,7 @@ We gathered all the elements needed for the game to work and created tests to te
 
 
 
-### Test Cases :-
+# Test Cases :-
 
 | ID             | 	Test Scenario          |   Test Data                                                  |
 | ----------------- | ------------------------------------------------------------------ |--------------------------- | 
