@@ -18,7 +18,8 @@ We gathered all the elements needed for the game to work and created tests to te
 
 | ID             | 	Test Scenario          |   Test Data                                                  |
 | ----------------- | ------------------------------------------------------------------ |--------------------------- | 
-| 1 | Register the user    |  username- ABC   |   password-ABC123                   |
+| 1 | Register the user    |  username- ABC   |  
+                                              |password-ABC123                   |
 | 2 | Login the user       |        username- ABC   password-ABC123                         |
 | 3 | Add Record |     This is New Diary                                             |
 | 4 | View Record     |     ABC can view the content of this diary                                            |
